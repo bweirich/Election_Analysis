@@ -3,6 +3,12 @@
 ## Project Overview
 The Colorado Board of Elections has given a set of election results of the local congressional election to be analyzed.  The request was to determine the winner of the election and the breakdown of the results by candidate and county.
 
+1. Calculate the total number of votes.
+2. Get a complete list of candidates who received votes.
+3. Calculate the total number of votes each candidate received.
+4. Calculate the percentage of votes each candidate won.
+5. Determine the winner ofthe election based on popular vote.
+
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.3, Visual Studio Code, 1.54.3
