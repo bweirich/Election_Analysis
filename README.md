@@ -8,15 +8,15 @@ The Colorado Board of Elections has given a set of election results of the local
 - Software: Python 3.7.3, Visual Studio Code, 1.54.3
 
 ## Results
-**- Total Votes Cast: 369,711**
+- **Total Votes Cast: 369,711**
 - Candidate Summary
   - Charles Casper Stockham: 85,213 (23.0%)
-  **- Diana Degette: 272,892 (73.8%)**
+  - **Diana Degette: 272,892 (73.8%)**
   - Raymon Anthony Doane: 11,606 (3.1%)
 - Based on the results the winner of the election was Diana Degette with 73.8% of the votes.
 - County Summary
   - Jefferson County: 38,855 (10.5%)
-  **- Denver County: 306,055 (82.8%)**
+  - **Denver County: 306,055 (82.8%)**
   - Araphahoe County: 24,801 (6.7%)
 - Based on the results the county with the most votes cast was Denver County with 82.8% of the votes.
 
